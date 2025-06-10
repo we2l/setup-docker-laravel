@@ -23,7 +23,7 @@ cp .env.example .env
 APP_NAME="App Laravel"
 APP_URL=http://localhost:8000
 
-DB_CONNECTION=postgres
+DB_CONNECTION=pgsql
 DB_HOST=db
 DB_PORT=5432
 DB_DATABASE=laravel
